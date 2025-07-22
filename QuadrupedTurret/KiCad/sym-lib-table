@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "RF_Controller")(type "KiCad")(uri "/Users/joel/Files/Family/Joel/Robotics/RFController/CustomRFController/Electronics/RFControllerKiCAD/RF_Controller.kicad_sym")(options "")(descr ""))
+)
