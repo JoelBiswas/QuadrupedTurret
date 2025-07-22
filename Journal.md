@@ -10,6 +10,6 @@ and walking robots. I spent around 2 hours watching videos, and then polishing s
 
 # Day 3: July 21, 2025
 ### Time Spent: Ayush: 4 hr ; Joel:
-**Ayush**- Made a design change, I was mostly polishing out the CAD. We decided to change our leg design to achieve more stability & tried to create a walking animation. <br> <br>
+**Ayush**- Made a design change, I was mostly polishing out the CAD. We decided to change our leg design to achieve more stability & I tried to create a walking animation. <br> <br>
 <img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/1beeaf86-8559-4725-90f0-9c1da43af324" />
 
