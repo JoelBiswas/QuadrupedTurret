@@ -5,7 +5,7 @@ description: "Four-legged robot with a rotating turret on top"
 created_at: "2025-07-19"
 ---
 
-**Total Time Spent: 32 hrs**
+**Total Time Spent: 34 hrs**
 
 # Day 1: July 19, 2025
 ### Time Spent: Ayush: 4hrs; Joel: 7hrs
