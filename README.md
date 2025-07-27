@@ -2,6 +2,9 @@
 Four-legged robot with a turret mounted to the top. Created for Hack Club Highway to Undercity. <br>
 A robot that can move like a spider, or a crab. It's named Rick v2, because Rick v1 was quite a failure. It uses 8 servos for movement, a 3S lipo battery for power and has 2 Servos & 2 DC Motors for it's shooter. It consists of an ESP32 wired with a perf board & jumper wires, which is controlled by a bluetooth Xbox controller.
 
+
+<img height="750" alt="Screenshot 2025-07-26 at 10 08 37 PM" src="https://github.com/user-attachments/assets/d0ff333a-2f8f-468b-aed7-1191870766c8" />
+
 ### Breakdown of each component 
 <ul>
 <li> 4 Servos are use to move in the X direction and 4 other in the Y direction. <li>
