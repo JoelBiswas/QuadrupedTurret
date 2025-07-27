@@ -2,9 +2,6 @@
 Four-legged robot with a turret mounted to the top. Created for Hack Club Highway to Undercity. <br>
 A robot that can move like a spider, or a crab. It's named Rick v2, because Rick v1 was quite a failure. It uses 8 servos for movement, a 3S lipo battery for power and has 2 Servos & 2 DC Motors for it's shooter. It consists of an ESP32 wired with a perf board & jumper wires, which is controlled by a bluetooth Xbox controller.
 
-
-<img height="750" alt="Screenshot 2025-07-26 at 10 08 37 PM" src="https://github.com/user-attachments/assets/d0ff333a-2f8f-468b-aed7-1191870766c8" />
-
 ### Breakdown of each component 
 <ul>
 <li> 4 Servos are use to move in the X direction and 4 other in the Y direction. <li>
@@ -25,6 +22,32 @@ A robot that can move like a spider, or a crab. It's named Rick v2, because Rick
 
 ### Programming: Arduino IDE
 coming soon (once we build it)
+
+### Bill of Materials
+
+| **Item**             | **Cost (USD)** | **Description**                                     | **Vendor URL** |
+|----------------------|----------------|-----------------------------------------------------|----------------|
+| Jumper Wires (2x)    | $9.98          | Using these for our wiring                         | [Amazon](https://www.amazon.com/gp/product/B0B2L66ZFM/ref=ox_sc_act_title_6?smid=A1YZW40LYQY3L1&psc=1) |
+| Wire Strippers       | $8.99          | To cut and strip wires                             | [Amazon](https://www.amazon.com/WGGE-Professional-crimping-Multi-Tool-Multi-Function/dp/B073YG65N2) |
+| N20 Motors (DC)      | $5.99          | For our weapon                                      | [Amazon](https://www.amazon.com/gp/product/B0DZNTV88C/ref=ox_sc_act_title_3?smid=A2UYBS1CH53PM5&psc=1) |
+| Heatset Inserts      | $9.98          | Goes along with bolts                               | [Amazon](https://www.amazon.com/gp/product/B0DK1CF7RM/ref=ox_sc_act_title_4?smid=ABMRG4Y4E0D6H&psc=1) |
+| Perf Board           | $8.99          | For connecting everything (breadboard is too weak)  | [Amazon](https://www.amazon.com/gp/product/B0CMZL4T6J/ref=ox_sc_act_title_5?smid=A1YZW40LYQY3L1&psc=1) |
+| M3 Bolts             | $7.99          | To keep everything in place                         | [Amazon](https://www.amazon.com/gp/product/B0D3X5CT2J/ref=ox_sc_act_title_7?smid=AXJ8GZIYRIWL2&psc=1) |
+| Buck Converter       | $10.99         | 12V to 5V power conversion                          | [Amazon](https://www.amazon.com/gp/product/B09X1ZGR38/ref=ox_sc_act_title_8?smid=A31POUDF2NHFKC&psc=1) |
+| XT60 Connector       | $7.99          | Battery → ESP32 power connector                     | [Amazon](https://www.amazon.com/gp/product/B0BQZW9H2Q/ref=ox_sc_act_title_9?smid=A1CK03RVBS2NYU&psc=1) |
+| 2S LiPo Battery      | $16.92         | Power supply                                        | [Amazon](https://www.amazon.com/gp/product/B07L6BVRDG/ref=ox_sc_act_title_1?smid=A1KODDOPEPALCP&psc=1) |
+| Servos (4x included) | $25.99         | For movement of our robot                           | [Amazon](https://www.amazon.com/gp/product/B09LS7RB5J/ref=ox_sc_act_title_10?smid=A1VTL661FOEJB1&psc=1) |
+| Solder               | $3.99          | We don't have enough for this project               | [Amazon](https://www.amazon.com/Rindion-Soldering-Stained-Electrical-Components/dp/B0DT9CG5HG) |
+| ESP32 (already owned)| $17.99         | Microcontroller unit                                | [Amazon](https://www.amazon.com/ESP-WROOM-32-Development-Microcontroller-Integrated-Compatible/dp/B0CR5Y2JVD) |
+| Nerf Rival Bullets   | $8.87          | Ammunition                                          | [Amazon](https://www.amazon.com/gp/product/B07FRS9R63/ref=ox_sc_act_title_2?smid=AJH5PYLVP0DGO&psc=1) |
+| Orange PLA           | $11.99         | For printing parts                                  | [Amazon](https://www.amazon.com/Cregrant3D-Filament-Printing-30-300mm-Accuracy/dp/B0F134B1PQ) |
+
+---
+
+**Subtotal:** $156.65  
+**Taxes (4%):** $6.27  
+**Total:** **$162.92**
+
 
 
 
