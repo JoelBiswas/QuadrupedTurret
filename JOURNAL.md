@@ -5,10 +5,10 @@ description: "Four-legged robot with a rotating turret on top"
 created_at: "2025-07-19"
 ---
 
-**Total Time Spent: 32 hrs**
+**Total Time Spent: 34 hrs**
 
 # Day 1: July 19, 2025
-### Time Spent: Ayush: 4 hrs; Joel: 7 hrs
+### Time Spent: Ayush: 4hrs; Joel: 7hrs
 **Ayush:** After failing to make a quadruped shooter at Undercity, We decided to make another one- a working one this time. I didn't start the CAD, but I was just watching a lot of videos on robotics 
 and walking robots. I spent around 2 hours watching videos, and then polishing some CAD that Joel made. <br> <br>
 
@@ -18,7 +18,7 @@ and walking robots. I spent around 2 hours watching videos, and then polishing s
 <img height="400" alt="image" src="https://github.com/user-attachments/assets/20979d30-2c24-416a-980f-54d21327ebbc" />
 
 # Day 2: July 20, 2025
-### Time Spent: Ayush: 0 hrs; Joel: 5 hrs
+### Time Spent: Ayush: 0hrs; Joel: 5hrs
 **Ayush:** Didn't work today because I was preparing for some summer course.  <br> <br>
 
 
@@ -29,7 +29,7 @@ and walking robots. I spent around 2 hours watching videos, and then polishing s
 <img height="400" alt="Screenshot 2025-07-24 at 11 42 42 PM" src="https://github.com/user-attachments/assets/e43f0437-3493-4733-9774-96ece1836688" />
 
 # Day 3: July 21, 2025
-### Time Spent: Ayush: 4 hrs; Joel: 4 hrs
+### Time Spent: Ayush: 4hrs; Joel: 4hrs
 **Ayush:** Made a design change, I was mostly polishing out the CAD. We decided to change our leg design to achieve more stability & I tried to create a walking animation.  <br> <br>
 
 
@@ -39,7 +39,7 @@ and walking robots. I spent around 2 hours watching videos, and then polishing s
 <img height="400" alt="image" src="https://github.com/user-attachments/assets/1beeaf86-8559-4725-90f0-9c1da43af324" />
 
 # Day 4: July 22, 2025
-### Time Spent: Ayush 0hrs; Joel 5 hrs
+### Time Spent: Ayush 0hrs; Joel 5hrs
 **Ayush:** I was yet again preparing for my summer course, had to take 2 module tests.  <br> <br>
 
 **Joel:** Now that the CAD is finished, I decided to start working on the wiring schematic. The project is going to be controlled by an ESP32 Development Board. The wiring consists of 4 servos for moving the base of the leg, 4 servos for moving the bottom of the legs, one servo for the turret's pitch rotation, and one servo or reloading. The project also uses two N20 DC motors for the turret flywheels. These motors are controlled using a BJT transistor connected to a GPIO on the ESP32. 
@@ -47,10 +47,14 @@ and walking robots. I spent around 2 hours watching videos, and then polishing s
 <img height="400" alt="Screenshot 2025-07-24 at 11 24 46 PM" src="https://github.com/user-attachments/assets/276dce7c-deb0-4760-ab75-3fb3b7cf6eac" />
 
 # Day 5: July 24, 2025
-### Time Spent: Ayush: 2hrs; Joel: 3 hrs
+### Time Spent: Ayush: 2hrs; Joel: 3hrs
 **Ayush:** I finally figured out on how to make the walking animation, for a good visualization. I really need to lock in for programming to compensate for the less hours I spent designing the robot.  <br> <br>
 
 **Joel:** I spent today shipping the project. I added all the CAD and Electrical files to this Git repo and wrote all of the journal entries. I also worked on the README file to provide more information about the project. The project is now ready to be submitted.
 
 https://github.com/user-attachments/assets/68442e27-629d-4082-b2d6-c562680f6586
+
+# Day 6: July 27, 2025
+### Time Spent: Ayush 1hr; Joel 1hr
+**Ayush & Joel:** Worked on the BOM and polishing the git repo
 
